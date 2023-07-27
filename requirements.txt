@@ -1,0 +1,10 @@
+beautifulsoup4==4.12.2
+Flask==2.2.3
+html5lib==1.1
+pandas==2.0.3
+pathlib==1.0.1
+requests==2.26.0
+requests-html==0.10.0
+spotipy==2.23.0
+youtube-search-python==1.6.6
+yt-dlp==2023.7.6
